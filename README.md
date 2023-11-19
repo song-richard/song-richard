@@ -1,4 +1,5 @@
 ### 👋 Hi, i'm Richard!
+### 🌆 Los Angeles, CA
 ### ✨ Portfolio: [https://song-richard.github.io/portfolio](https://song-richard.github.io/portfolio) 
 ### 🥞 Stack: HTML/CSS/JS/MERN 
 
