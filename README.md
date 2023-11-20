@@ -2,7 +2,7 @@
 ### 🌆 Los Angeles, CA
 ### 🥞 Stack: HTML/CSS/JS/MERN 
 ### ✨ Portfolio: www.richardsong.dev
-### 🔗 LinkedIn: [www.linkedin.com/in/song-richard](www.linkedin.com/in/song-richard)
+### 🔗 LinkedIn: www.linkedin.com/in/song-richard
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Song-richard&theme=dark)](https://git.io/streak-stats)
 
