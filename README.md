@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Richard!
 ### 🌆 Los Angeles, CA
-### 🥞 Stack: HTML/CSS/JS/MERN 
+### 🥞 Stack: JS/MERN
 ### ✨ Portfolio: www.richardsong.dev
 ### 🔗 LinkedIn: www.linkedin.com/in/song-richard
 
