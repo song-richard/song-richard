@@ -3,7 +3,7 @@
 ### 🥞 Stack: JS/MERN
 ### ✨ Portfolio: www.richardsong.dev
 ### 🔗 LinkedIn: www.linkedin.com/in/song-richard
-### 🚧 Current Working On: ExpressiveToDo
+### 🚧 Currently Working On: ExpressiveToDo
 
 ExpressiveToDo is a full-stack web application designed to help users manage their tasks effectively. The application features a user-friendly interface that allows users to create new tasks, specify due dates, and view a list of their tasks. The frontend of the application is built using HTML, CSS, JavaScript, and EJS for server-side rendering, providing an intuitive and responsive user experience.
 
