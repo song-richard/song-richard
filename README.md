@@ -13,8 +13,6 @@ On the backend, the application is powered by Node.js and Express, handling HTTP
 
 The core functionalities include creating tasks through a form submission, storing task data in the MongoDB database, and fetching and displaying tasks dynamically on the client side. The application adopts a full-stack architecture, allowing seamless communication between the user interface, server-side logic, and the database.
 
-ExpressiveToDo not only demonstrates proficiency in web development technologies such as HTML, CSS, JavaScript, Node.js, Express, EJS, and MongoDB but also showcases the integration of both frontend and backend components to create a cohesive and functional task management system.
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Song-richard&theme=dark)](https://git.io/streak-stats)
 
 <!--
