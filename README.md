@@ -1,4 +1,5 @@
-### 👋 Hi, I'm Richard!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+Richard)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70404&random=false&width=435&lines=a+Full-Stack+Software+Developer)](https://git.io/typing-svg)
 ### 🌆 Los Angeles, CA
 ### 🥞 Stack: JS/MERN
 -----
