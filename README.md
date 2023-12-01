@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=60000&random=false&width=435&lines=Los+Angeles%2C+CA)](https://git.io/typing-svg) <br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=60000&random=false&width=435&lines=Stack%3A+JavaScript%2FMERN)](https://git.io/typing-svg)
 -----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=60000&color=E2F765&random=false&width=435&lines=Portfolio%3A)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=60000&color=E2F765&random=false&width=435&lines=Portfolio%3A)] <br>
 www.richardsong.dev
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=60000&color=E2F765&random=false&width=435&lines=LinkedIn%3A)](https://git.io/typing-svg) <br>
