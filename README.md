@@ -30,4 +30,5 @@ ExpressiveToDo is a full-stack web application designed to help users manage the
 
 -----
 ![GitHub Streak](https://streak-stats.demolab.com?user=Song-richard&theme=dark)<br>
+-----
 ![Visitor Count](https://profile-counter.glitch.me/song-richard/count.svg)
