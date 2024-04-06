@@ -22,7 +22,7 @@
 ![BULMA](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=15000&color=f8f8ff&random=false&width=435&lines=<Back-End>:) <br>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=15000&color=f8f8ff&random=false&width=435&lines=<Back-End>) <br>
 ![EXPRESS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NODE](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
