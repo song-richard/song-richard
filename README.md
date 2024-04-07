@@ -3,9 +3,9 @@
 ----- 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=60000&random=false&width=435&lines=<Los+Angeles%2CCA>) <br>
 -----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=60000&color=E2F765&random=false&width=435&lines=<Portfolio>)](https://www.richardsong.dev) <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=60000&color=E2F765&random=false&width=435&lines=<LinkedIn>)](https://www.linkedin.com/in/song-richard) <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=60000&color=E2F765&random=false&width=435&lines=<Resume>)](https://www.richardsong.dev/assets/RICHARD%20SONG%20-%20RESUME.pdf) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=60000&color=EffD5F&random=false&width=435&lines=<Portfolio>)](https://www.richardsong.dev) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=60000&color=EffD5F&random=false&width=435&lines=<LinkedIn>)](https://www.linkedin.com/in/song-richard) <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=60000&color=EffD5F&random=false&width=435&lines=<Resume>)](https://www.richardsong.dev/assets/RICHARD%20SONG%20-%20RESUME.pdf) <br>
 -----
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=60000&color=f8f8ff&random=false&width=435&lines=<Languages>) <br>
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
